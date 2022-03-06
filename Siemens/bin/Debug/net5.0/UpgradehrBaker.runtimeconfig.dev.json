@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chanchalas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chanchalas\\.nuget\\packages"
+    ]
+  }
+}
